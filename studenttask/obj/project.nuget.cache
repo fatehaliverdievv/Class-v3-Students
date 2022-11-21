@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+ASQUBeZNLQq2IsAfNq48xfnWWlk539jXYC/zLvRFiOGDZ8NapL3o4LLN8fvF4eMmbNK/hx4q6//0IYh148yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fateh\\Desktop\\C#\\studenttask\\studenttask\\studenttask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fateh\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\Fateh\\.nuget\\packages\\documentformat.openxmlsdk\\2.0.0\\documentformat.openxmlsdk.2.0.0.nupkg.sha512",
+    "C:\\Users\\Fateh\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DocumentFormat.OpenXmlSDK 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DocumentFormat.OpenXmlSDK",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
